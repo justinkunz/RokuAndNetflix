@@ -1,0 +1,17 @@
+{
+  "name": "roku-the-office",
+  "version": "1.0.0",
+  "description": "Turns on TV Plays a random episode of the office on Roku smart TVs when netflix is installed",
+  "main": "playTheOffice.js",
+  "dependencies": {
+    "roku-client": "^3.1.5",
+    "rokujs": "^1.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Justin Kunz",
+  "license": "ISC"
+}
